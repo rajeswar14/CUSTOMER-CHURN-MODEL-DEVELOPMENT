@@ -23,7 +23,7 @@ The Jupyter Notebook, `customer churn project.ipynb`, includes the following sec
    - Select relevant features for the model.
 
 4. **Modeling**:  
-   - Train various machine learning models (e.g., Logistic Regression, Decision Trees, Random Forest, etc.) to predict churn.
+   - Train various machine learning models (e.g., Logistic Regression, Decision Trees, Random Forest,Gradient Boosting,KNN etc.) to predict churn.
    - Evaluate models using appropriate metrics (e.g., accuracy, precision, recall, F1-score, AUC-ROC).
 
 5. **Model Evaluation and Selection**:  
