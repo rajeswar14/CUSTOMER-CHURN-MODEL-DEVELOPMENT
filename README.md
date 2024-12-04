@@ -12,8 +12,6 @@ The Jupyter Notebook, `customer churn project.ipynb`, includes the following sec
 
 1. **Data Loading and Exploration**:  
    - Load the dataset and check for missing values, data types, and basic statistics.
-   - Perform exploratory data analysis (EDA) to understand feature distributions and relationships with churn.
-
 2. **Data Preprocessing**:  
    - Handle missing values and data encoding (if necessary).
    - Scale/normalize features to prepare the data for modeling.
