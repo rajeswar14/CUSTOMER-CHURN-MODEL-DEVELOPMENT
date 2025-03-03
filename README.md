@@ -28,7 +28,11 @@ The Jupyter Notebook, `customer churn project.ipynb`, includes the following sec
    - Compare model performance to select the best model for predicting customer churn.
    - Analyze feature importance to gain insights into key churn drivers.
 
-6. **Conclusion and Insights**:  
+6. **Deployment with Streamlit:**  
+   - Developed an interactive **web app** for real-time predictions.  
+   - Users can input customer details and get instant **churn predictions**.  
+
+7. **Conclusion and Insights**:  
    - Summarize findings from the analysis and offer recommendations for churn mitigation.
 
 ## Requirements
